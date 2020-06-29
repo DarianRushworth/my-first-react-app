@@ -6,8 +6,8 @@ import Title from "./components/title"
 function App() {
   return (
     <div className="App">
+    <Title/>
       <header className="App-header">
-        <Title/>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Welcome to Codaisseur!!!
